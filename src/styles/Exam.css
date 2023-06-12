@@ -1,0 +1,47 @@
+.examDiv{
+    text-align: center;
+}
+
+.tercih p{
+    font-size: 24px;
+}
+.examDiv h1{
+    font-size: 52px;
+    color:#19A7CE;
+}
+
+.exam{
+    border:1px solid black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom:70px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.questions{
+    padding:10px;
+    display: flex;  
+}
+
+.question{
+    width:50%;
+}
+
+.answer{
+    width:50%;
+}
+
+.btn5-10{
+    font-size:22px;
+    padding:20px;
+    border: none;
+    border-radius: 20px;
+    background-color:#19A7CE;
+    color:white;
+    margin: 10px;
+    cursor: pointer;
+    width: 150px;
+}

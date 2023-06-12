@@ -1,0 +1,21 @@
+.choose{
+    text-align: center;
+}
+
+.chooseBtn{
+    width: 150px;
+    margin:25px;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: #19A7CE;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.info{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 50px;
+}

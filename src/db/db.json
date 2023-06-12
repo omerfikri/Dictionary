@@ -1,0 +1,594 @@
+{
+  "words": [
+    {
+      "turkish": "kelime",
+      "english": "word",
+      "id": 1
+    },
+    {
+      "turkish": "bilgisayar",
+      "english": "computer",
+      "id": 2
+    },
+    {
+      "turkish": "fare",
+      "english": "mouse",
+      "id": 3
+    },
+    {
+      "turkish": "telefon",
+      "english": "phone",
+      "id": 5
+    },
+    {
+      "turkish": "cüzdan",
+      "english": "wallet",
+      "id": 6
+    },
+    {
+      "turkish": "kitap",
+      "english": "book",
+      "id": 7
+    },
+    {
+      "turkish": "kapı",
+      "english": "door",
+      "id": 8
+    },
+    {
+      "turkish": "pencere",
+      "english": "window",
+      "id": 9
+    },
+    {
+      "turkish": "karar vermek",
+      "english": "decide",
+      "id": 10
+    },
+    {
+      "turkish": "papatya",
+      "english": "daisy",
+      "id": 11
+    },
+    {
+      "turkish": "zincir",
+      "english": "chain",
+      "id": 12
+    },
+    {
+      "turkish": "aniden",
+      "english": "suddenly",
+      "id": 13
+    },
+    {
+      "turkish": "yelek",
+      "english": "waistcoat",
+      "id": 14
+    },
+    {
+      "turkish": "cep",
+      "english": "pocket",
+      "id": 15
+    },
+    {
+      "turkish": "merak",
+      "english": "curiosity",
+      "id": 16
+    },
+    {
+      "turkish": "ulaşmak",
+      "english": "reach",
+      "id": 17
+    },
+    {
+      "turkish": "alan",
+      "english": "field",
+      "id": 18
+    },
+    {
+      "turkish": "delik-çukur",
+      "english": "hole",
+      "id": 19
+    },
+    {
+      "turkish": "düz",
+      "english": "straight",
+      "id": 20
+    },
+    {
+      "turkish": "derin kuyu",
+      "english": "deep weel",
+      "id": 21
+    },
+    {
+      "turkish": "oldukça",
+      "english": "quite",
+      "id": 22
+    },
+    {
+      "turkish": "dolap",
+      "english": "cupboard",
+      "id": 23
+    },
+    {
+      "turkish": "raf",
+      "english": "shelf",
+      "id": 24
+    },
+    {
+      "turkish": "merak etmek",
+      "english": "wonder",
+      "id": 25
+    },
+    {
+      "turkish": "düşmek",
+      "english": "fall",
+      "id": 26
+    },
+    {
+      "turkish": "yüksek sesle",
+      "english": "aloud-loudly",
+      "id": 27
+    },
+    {
+      "turkish": "fareler-korkaklar",
+      "english": "mice",
+      "id": 28
+    },
+    {
+      "turkish": "yaprak",
+      "english": "leaf",
+      "id": 29
+    },
+    {
+      "turkish": "yapraklar",
+      "english": "leaves",
+      "id": 30
+    },
+    {
+      "turkish": "geçit",
+      "english": "passage",
+      "id": 31
+    },
+    {
+      "turkish": "rüzgar",
+      "english": "wind",
+      "id": 32
+    },
+    {
+      "turkish": "salon",
+      "english": "hall",
+      "id": 33
+    },
+    {
+      "turkish": "asmak",
+      "english": "hang",
+      "id": 34
+    },
+    {
+      "turkish": "çatı",
+      "english": "roof",
+      "id": 35
+    },
+    {
+      "turkish": "minik",
+      "english": "tiny",
+      "id": 36
+    },
+    {
+      "turkish": "perde",
+      "english": "curtain",
+      "id": 37
+    },
+    {
+      "turkish": "fare deliği",
+      "english": "rat hole",
+      "id": 38
+    },
+    {
+      "turkish": "diz",
+      "english": "knee",
+      "id": 39
+    },
+    {
+      "turkish": "diz çökmek",
+      "english": "kneel down",
+      "id": 40
+    },
+    {
+      "turkish": "parlak",
+      "english": "bright",
+      "id": 41
+    },
+    {
+      "turkish": "çeşme",
+      "english": "fountain",
+      "id": 42
+    },
+    {
+      "turkish": "olmak",
+      "english": "become",
+      "id": 43
+    },
+    {
+      "turkish": "zehir",
+      "english": "poison",
+      "id": 44
+    },
+    {
+      "turkish": "tatmak",
+      "english": "taste",
+      "id": 45
+    },
+    {
+      "turkish": "küçülmek",
+      "english": "shrinking",
+      "id": 46
+    },
+    {
+      "turkish": "başından sonuna kadar",
+      "english": "through",
+      "id": 47
+    },
+    {
+      "turkish": "vurmak",
+      "english": "struck",
+      "id": 48
+    },
+    {
+      "turkish": "yatmak-uzanmak",
+      "english": "lie down",
+      "id": 49
+    },
+    {
+      "turkish": "çift",
+      "english": "pair",
+      "id": 50
+    },
+    {
+      "turkish": "düşürmek",
+      "english": "drop",
+      "id": 51
+    },
+    {
+      "turkish": "her zamanki gibi",
+      "english": "just as usual",
+      "id": 52
+    },
+    {
+      "turkish": "ikisinden biri",
+      "english": "whether",
+      "id": 53
+    },
+    {
+      "turkish": "gizem",
+      "english": "mystery",
+      "id": 54
+    },
+    {
+      "turkish": "ölçüm",
+      "english": "mesaure",
+      "id": 55
+    },
+    {
+      "turkish": "azaltmak",
+      "english": "decrease",
+      "id": 56
+    },
+    {
+      "turkish": "çene",
+      "english": "chin",
+      "id": 57
+    },
+    {
+      "turkish": "sıçrama",
+      "english": "splash",
+      "id": 58
+    },
+    {
+      "turkish": "dikkatle",
+      "english": "attentively",
+      "id": 59
+    },
+    {
+      "turkish": "düşünce",
+      "english": "thought",
+      "id": 60
+    },
+    {
+      "turkish": "korku",
+      "english": "fear",
+      "id": 61
+    },
+    {
+      "turkish": "yalamak",
+      "english": "lick",
+      "id": 62
+    },
+    {
+      "turkish": "pati-pençe",
+      "english": "paw",
+      "id": 63
+    },
+    {
+      "turkish": "ustaca",
+      "english": "skillfully",
+      "id": 64
+    },
+    {
+      "turkish": "ait olmak-üyesi olmak",
+      "english": "belong",
+      "id": 65
+    },
+    {
+      "turkish": "sahil-kıyı",
+      "english": "shore",
+      "id": 66
+    },
+    {
+      "turkish": "köpek yavrusu",
+      "english": "puppy",
+      "id": 67
+    },
+    {
+      "turkish": "toplamak-toplanmak",
+      "english": "gather",
+      "id": 68
+    },
+    {
+      "turkish": "önder",
+      "english": "leader",
+      "id": 69
+    },
+    {
+      "turkish": "yüzük",
+      "english": "ring",
+      "id": 70
+    },
+    {
+      "turkish": "kuru",
+      "english": "dry",
+      "id": 71
+    },
+    {
+      "turkish": "sessizce",
+      "english": "silently",
+      "id": 72
+    },
+    {
+      "turkish": "nokta-puan",
+      "english": "point",
+      "id": 73
+    },
+    {
+      "turkish": "şekerleme",
+      "english": "comfits",
+      "id": 75
+    },
+    {
+      "turkish": "yüksük",
+      "english": "thimble",
+      "id": 76
+    },
+    {
+      "turkish": "sevinçle",
+      "english": "with joy - joyfully",
+      "id": 77
+    },
+    {
+      "turkish": "yerine",
+      "english": "instead",
+      "id": 78
+    },
+    {
+      "turkish": "masal",
+      "english": "tale",
+      "id": 80
+    },
+    {
+      "turkish": "kuyruk",
+      "english": "tail",
+      "id": 81
+    },
+    {
+      "turkish": "kanun",
+      "english": "law",
+      "id": 82
+    },
+    {
+      "turkish": "duruşma-deneme",
+      "english": "trial",
+      "id": 83
+    },
+    {
+      "turkish": "jüri",
+      "english": "jury",
+      "id": 84
+    },
+    {
+      "turkish": "atık",
+      "english": "waste",
+      "id": 85
+    },
+    {
+      "turkish": "angarya",
+      "english": "drudge",
+      "id": 86
+    },
+    {
+      "turkish": "kınamak-suçlamak",
+      "english": "condemn",
+      "id": 87
+    },
+    {
+      "turkish": "yalan yere yemin",
+      "english": "perjury",
+      "id": 88
+    },
+    {
+      "turkish": "viraj-bükmek",
+      "english": "bend",
+      "id": 89
+    },
+    {
+      "turkish": "pıtırtı",
+      "english": "pattering",
+      "id": 90
+    },
+    {
+      "turkish": "kürk",
+      "english": "fur",
+      "id": 91
+    },
+    {
+      "turkish": "uygulamak",
+      "english": "execute",
+      "id": 92
+    },
+    {
+      "turkish": "yok olmak-kaybolmak",
+      "english": "disappear",
+      "id": 93
+    },
+    {
+      "turkish": "üst kat",
+      "english": "upstairs",
+      "id": 94
+    },
+    {
+      "turkish": "tavan",
+      "english": "ceiling",
+      "id": 95
+    },
+    {
+      "turkish": "dirsek-dönemeç",
+      "english": "elbow",
+      "id": 96
+    },
+    {
+      "turkish": "baca",
+      "english": "chimney",
+      "id": 97
+    },
+    {
+      "turkish": "sallamak",
+      "english": "shake",
+      "id": 98
+    },
+    {
+      "turkish": "yaymak",
+      "english": "spread",
+      "id": 99
+    },
+    {
+      "turkish": "kapmak",
+      "english": "snatch",
+      "id": 100
+    },
+    {
+      "turkish": "çerçeve",
+      "english": "frame",
+      "id": 101
+    },
+    {
+      "turkish": "merdiven-basamak",
+      "english": "ladder",
+      "id": 102
+    },
+    {
+      "turkish": "taş",
+      "english": "stone",
+      "id": 103
+    },
+    {
+      "turkish": "havlamak-bağırmak",
+      "english": "bark",
+      "id": 104
+    },
+    {
+      "turkish": "bir kenara-bir tarafa",
+      "english": "aside",
+      "id": 105
+    },
+    {
+      "turkish": "mantar",
+      "english": "mushroom",
+      "id": 106
+    },
+    {
+      "turkish": "tırtıl",
+      "english": "caterpiller",
+      "id": 107
+    },
+    {
+      "turkish": "nargile",
+      "english": "hookah",
+      "id": 108
+    },
+    {
+      "turkish": "esnemek",
+      "english": "yawn",
+      "id": 109
+    },
+    {
+      "turkish": "kenar",
+      "english": "edge",
+      "id": 110
+    },
+    {
+      "turkish": "kemirmek-ısırmak",
+      "english": "nibble",
+      "id": 111
+    },
+    {
+      "turkish": "boyun",
+      "english": "neck",
+      "id": 112
+    },
+    {
+      "turkish": "boyun eğmek",
+      "english": "neck bend",
+      "id": 113
+    },
+    {
+      "turkish": "güvercin",
+      "english": "pigeon",
+      "id": 114
+    },
+    {
+      "turkish": "çömelmek",
+      "english": "crouch",
+      "id": 115
+    },
+    {
+      "turkish": "çözmek",
+      "english": "untwist",
+      "id": 116
+    },
+    {
+      "turkish": "olağan",
+      "english": "usual",
+      "id": 117
+    },
+    {
+      "turkish": "fark etmek",
+      "english": "notice",
+      "id": 118
+    },
+    {
+      "turkish": "girişim-risk",
+      "english": "venture",
+      "id": 119
+    },
+    {
+      "turkish": "kadar-dek",
+      "english": "till",
+      "id": 120
+    },
+    {
+      "turkish": "su",
+      "english": "water",
+      "id": 121
+    }
+  ]
+}
